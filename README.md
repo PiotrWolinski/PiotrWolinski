@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Piotr Wolinski</h1>
 <h3 align="center">A Computer Science student from Poland with some great ambitions</h3>
 
-- 🔭 I’m currently working on [MXNet](https://github.com/apache/incubator-mxnet) Deep Learning framework development
+- 🚀 Currently working as a Python Developer for [STX Next](https://github.com/stxnext)
+
+- 🔭 In my first job I was working on [MXNet](https://github.com/apache/incubator-mxnet) Deep Learning framework development
 
 - 🌱 I’m currently learning **Machine Learning** and full stack development with **Vue** and **Flask**
 
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/piotr-wolinski) and don't be afraid to say *Hi*
 
-- ⚡ My hobbies consists of calisthenics, climbing, listening to music and photography
+- ⚡ My hobbies consists of calisthenics, climbing, listening to music, FPV drones and photography
 
 <hr>
 
