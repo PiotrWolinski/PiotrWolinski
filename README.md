@@ -1,5 +1,5 @@
 # Hi, I'm Piotr
-I'm both studying Computer Science and at the same time working as a software engineer. I truly enjoy this combination, as it allows me to constantly develop based on the new insights from academia, but also from the industry.
+I'm both studying Computer Science and at the same time working as a software engineer. I truly enjoy this combination, as it allows me to constantly develop with the new insights not only from the academia, but also from the industry.
 
 # Studies
 I'm studying  [MSc in Computer Science at the University of Zurich](https://www.ifi.uzh.ch/en.html), where my main focus is Data Science and Software Engineering, but my courses of choice cover a broad range of topics, starting with Network Science, through IT Architectures and Deep Learning, to finish with Vision Algorithms for Mobile Robotics. 
