@@ -1,8 +1,8 @@
 # Hi, I'm Piotr
-I'm both studying Computer Science and at the same time working as a software engineer. I truly enjoy this combination, as it allows me to constantly develop with the new insights not only from the academia, but also from the industry.
+I'm both studying Computer Science and at the same time working as a Software Engineer. I truly enjoy this combination, as it allows me to constantly develop with the new insights not only from the academia, but also from the industry.
 
 # Studies
-I'm studying  [MSc in Computer Science at the University of Zurich](https://www.ifi.uzh.ch/en.html), where my main focus is Data Science and Software Engineering, but my courses of choice cover a broad range of topics, starting with Network Science, through IT Architectures and Deep Learning, to finish with Vision Algorithms for Mobile Robotics. 
+I'm studying  [MSc in Data Science at the University of Zurich](https://www.ifi.uzh.ch/en.html), where my main focus is Data Science and Software Engineering (and combination of both), but my courses of choice cover a broad range of topics, starting with Network Science and Systems for Data Science, through IT Architectures and Deep Learning, to finish with Vision Algorithms for Mobile Robotics. 
 
 # Work
 I have a pretty diverse experience as a Software Engineer and have worked with many different tech stacks, but at this moment I'm delighted with being a Software Engineer @ [Verity](https://verity.net/). Brief summary of my skills is below, but to find out more please check my [LinkedIn](https://www.linkedin.com/in/piotr-wolinski/), where I described everything in details.
