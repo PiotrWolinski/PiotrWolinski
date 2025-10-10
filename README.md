@@ -1,14 +1,16 @@
 # Hi, I'm Piotr
-I'm both studying Computer Science and at the same time working as a Software Engineer. I truly enjoy this combination, as it allows me to constantly grow with the new insights not only from the academia, but also from the industry.
+
+# What am I up to now?
+I am currently wrapping up my MSc degree in Data Science at UZH with a master’s thesis about "Maze escape with AI nano robots" at IIS ETH. It covers quite a few different topics, from developing a simulation environment in [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac/sim), generating synthetic data for collision avoidance, training CV models to optimizing CNNs for low-power hardware. I think it is super interesting and that I will learn a ton. However, afterwards I am looking for a full-time position in a SWE/ML/CV-related field in the Zurich area.
 
 # Studies
-I'm studying  [MSc in Data Science at the University of Zurich](https://www.ifi.uzh.ch/en.html), where my main focus is Computer Vision and Software Engineering (and combination of both), but my courses of choice cover a broad range of topics, starting with Network Science and Systems for Data Science, through Advanced Programming, Advanced Software Engineering and Deep Learning, to finish with Vision Algorithms for Mobile Robotics, 3D Vision and Computer Vision. 
+I'm studying [MSc in Data Science at the University of Zurich](https://www.ifi.uzh.ch/en.html), where my main focus is Computer Vision and Software Engineering (and a combination of both), but my courses of choice cover a broad range of topics, starting with Network Science and Systems for Data Science, through Advanced Programming, Advanced Software Engineering, and Deep Learning, to finish with Vision Algorithms for Mobile Robotics, 3D Vision, and Computer Vision. 
 
 # Work
-I have a pretty diverse experience as a Software Engineer and have worked with many different tech stacks, but at this moment I'm working as a SWE Intern at Google. Brief summary of my skills is below, but to find out more please check my [LinkedIn](https://www.linkedin.com/in/piotr-wolinski/), where I tried to describe everything in details.
+I have a pretty diverse experience as a Software Engineer and have worked with many different tech stacks. Currently, I am taking my sweet time writing my master’s thesis and not working besides that. My most recent experience, though, was as a SWE Intern @ Google Zurich with the Semantics Perception team (Federico Tombari group). A brief summary of my skills is below, but to find out more, please check my [LinkedIn](https://www.linkedin.com/in/piotr-wolinski/), where I tried to describe everything in detail.
 
 # Contact
-Feel free to reach out to me on LinkedIn or by email, whether it is regarding some interesting opportunities, open-source projects or with some questions, I'll always be happy to answer.
+Feel free to reach out to me on LinkedIn or by email. Whether it is regarding some interesting opportunities, open-source projects, or with some questions, I'll always be happy to answer.
 
 # My tech stack:
 ## Languages
